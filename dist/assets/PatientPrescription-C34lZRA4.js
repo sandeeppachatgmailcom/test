@@ -1,0 +1,1 @@
+import{r as e,b as r,c as a,j as s,Y as u}from"./index-Bp26y0Cv.js";function c(){return e.useState(!0),r(),e.useState(),e.useState(),e.useState(),a(t=>t==null?void 0:t.currentPatientSlice),s.jsx("div",{className:"",children:s.jsx(u,{})})}export{c as default};
